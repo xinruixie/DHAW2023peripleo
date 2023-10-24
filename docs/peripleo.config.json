@@ -5,7 +5,7 @@
     {
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
-      "src": "./data/myplace.json",  # change the json file everytime
+      "src": "./data/docs/data/Peripleo_Data_1698158895.json",  # change the json file everytime
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
